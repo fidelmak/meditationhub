@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
         width: s(34),
         height: vs(30),
         borderRadius: s(25),
-        backgroundColor: 'lightgray',
+        backgroundColor: '#DAD9CCFF',
         justifyContent: 'center',
         alignItems: 'center',
         // Space between items
